@@ -1,0 +1,10 @@
+:root{
+    --white:#fff;
+    --purple:rgb(91, 108, 235);
+    --grey-title:rgb(119, 119, 119);
+    --grey-subtitle:rgb(85, 85, 85);
+    --placeholder-color:rgb(136, 136, 136);
+    --grey:rgb(242, 242, 242);
+    --purple-text:rgb(83, 99, 219);
+    --grey-line:rgb(215, 215, 215);
+}
